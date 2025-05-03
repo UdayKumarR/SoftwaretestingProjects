@@ -1,0 +1,2 @@
+# SoftwaretestingProjects
+Manual testing repository
